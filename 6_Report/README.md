@@ -8,8 +8,6 @@
   | 2 | features | 2 |
   |   | (i) High Level Requirements |   |
   |   | (ii) Low Level Requirements |   |
-  | 3 | SWOT Analysis | 3 |
-  | 4 | 4W's and 1H | 4 |
 
   ## Introduction
 
@@ -32,3 +30,31 @@ Monitor and Manage Customers’ Information and Status.
 Manage and Update Applicants’ Account Information.
 Manage Withdrawing and Saving Transaction.
 Records All Transactions.
+
+## High Level Requirements
+
+* HL-1 
+ ADD Customer to Bank Account
+
+* HL-2
+ ADD Customer to Saving Account
+
+* HL-3
+ LOGIN
+
+## Low Level Requirements
+
+* LL-1
+  Enter Full Name
+* LL-2
+  Add Amount
+* LL-3
+  Add Interest Rate
+* LL-4
+  Make Deposit
+* LL-5
+  Widthdraw Money
+* LL-6
+  Transfer Money
+* LL-7
+  Exit
