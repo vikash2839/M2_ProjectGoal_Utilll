@@ -23,7 +23,7 @@ I Created Bank Account Management system , in which customer can add money to th
 * It is easy way to check balance .
 * It is easy way to transfer money to other person.
 
-## features:
+## Features:
 
 
 * Monitor and Manage Customers’ Information and Status.
@@ -53,3 +53,22 @@ I Created Bank Account Management system , in which customer can add money to th
 * Very Easy to Access.
 * Low Costs
 * Saves time
+
+## SWOT ANAYLSIS:
+
+* STRENGTH - 
+
+
+![STRENGTH](https://user-images.githubusercontent.com/98845934/157723168-e97a99b1-9fae-481a-98fd-c7d3b41e50c5.png)
+
+* WEAKNESS - 
+
+![WEAKNESS](https://user-images.githubusercontent.com/98845934/157723185-7682447c-7db0-49fe-be4f-0ce3dec62734.png)
+
+* OPPOUTUNITES - 
+
+![OPPOURTIO](https://user-images.githubusercontent.com/98845934/157723191-42b48d60-bc17-4389-a052-2576089dd788.png)
+
+* THREATS - 
+
+![THREATS](https://user-images.githubusercontent.com/98845934/157723199-d13a7916-de56-4717-bc13-898fc6785a78.png)
