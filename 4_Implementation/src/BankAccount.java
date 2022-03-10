@@ -1,23 +1,14 @@
+package src;
 
 import javax.swing.JOptionPane;
 
-public class SavingsAccount extends Accounts{
-	private double interestRate;
-
-	public SavingsAccount(String name, double balance, double interestRate)
+public class BankAccount extends Accounts{
+	
+	public BankAccount(String name, double balance)
 	{
 		super(name, balance);
-		this.interestRate = interestRate;
 	}
 	
-	public void addInterest(double amount)
-	{
-		/*If balance is 0 then: If deposit is 100 and interest rate is 50 then deposit will be 100 + 100(50/100) => 150. 
-		So balance will become 150 and not 100 which was the deposit*/
-		double interest = amount + amount * interestRate/100;
-		deposit(interest);
-	}
-
 	@Override
 	public void deposit(double amount) 
 	{
@@ -43,7 +34,7 @@ public class SavingsAccount extends Accounts{
 		boolean flag = false;
 		
 		flag = withdraw(amount);
-		if(flag)//If user had enough money to withdraw
+		if(flag) //If user had enough money to withdraw
 			ac.deposit(amount); //Deposit the money to the receiver acount
 
 		return flag;

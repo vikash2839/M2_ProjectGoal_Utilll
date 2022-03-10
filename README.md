@@ -2,7 +2,7 @@
 
 | codacy | codiga | Manual workflow | MIT License |
 |:------:|:------:|:----------:|:----------------:|
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e4aee5da2e9c45f2a5bbf71bf50cca20)](https://www.codacy.com/gh/vikash2839/M2_ProjectGoal_Utilll/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vikash2839/M2_ProjectGoal_Utilll&amp;utm_campaign=Badge_Grade) | ![icode grade](https://api.codiga.io/project/31811/score/svg)  ![icode grade](https://api.codiga.io/project/31811/status/svg) | [![Manual workflow](https://github.com/vikash2839/M2_ProjectGoal_Utilll/actions/workflows/manual.yml/badge.svg)](https://github.com/vikash2839/M2_ProjectGoal_Utilll/actions/workflows/manual.yml) |
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e4aee5da2e9c45f2a5bbf71bf50cca20)](https://www.codacy.com/gh/vikash2839/M2_ProjectGoal_Utilll/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vikash2839/M2_ProjectGoal_Utilll&amp;utm_campaign=Badge_Grade) | ![icode grade](https://api.codiga.io/project/31811/score/svg)  ![icode grade](https://api.codiga.io/project/31811/status/svg) | [![Manual workflow](https://github.com/vikash2839/M2_ProjectGoal_Utilll/actions/workflows/manual.yml/badge.svg)](https://github.com/vikash2839/M2_ProjectGoal_Utilll/actions/workflows/manual.yml) | ![icode grade](https://img.shields.io/github/license/vikash2839/M2_ProjectGoal_Utilll?style=flat-square) |
 
 ## Bank-Account-Management
 
